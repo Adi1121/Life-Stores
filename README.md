@@ -1,2 +1,2 @@
-# Life-Stores
-An E-commerce Website
+E-commerce website using PHP
+Aditya Gaikwad
