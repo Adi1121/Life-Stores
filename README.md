@@ -1,2 +1,2 @@
-E-commerce website using PHP
+E-commerce website using PHP by
 Aditya Gaikwad
